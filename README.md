@@ -167,6 +167,13 @@ A Java-based console application to manage student academic records with structu
 
 <br/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-jshubham&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jshubham&layout=compact&theme=default&hide_border=false" />
+</p>
 
 <br/>
 
