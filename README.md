@@ -1,30 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=200&section=header&text=Hey,%20I'm%20Shubham%20Joshi&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,20:34A853,40:FBBC05,60:FF6D00,80:EA4335,100:D946EF&height=200&section=header&text=Hey,%20I'm%20Shubham%20Joshi&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Java%20Backend%20Developer&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+%7C+SQL+%7C+OOP+%7C+Backend+Fundamentals;BCA+Student+%7C+Chandigarh%2C+India;Building+a+Strong+Java+Foundation;Learning+Spring+Boot+%26+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=FF6D00&center=true&vCenter=true&width=650&lines=Java+%7C+SQL+%7C+OOP+%7C+Backend+Fundamentals;BCA+Student+%7C+Chandigarh%2C+India;Building+a+Strong+Java+Foundation;Learning+Spring+Boot+%26+REST+APIs" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Developer-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Always-Learning-16A34A?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/dev-jshubham">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shubham-joshi-b8117837a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:21shubhamjoshi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dev-jshubham&style=for-the-badge&color=D946EF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
 
 <p align="center">
 <img width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </p>
 
 <br/>
-
-<a href="https://github.com/dev-jshubham">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-<a href="https://www.linkedin.com/in/shubham-joshi-b8117837a">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
-</a>
-<a href="mailto:21shubhamjoshi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dev-jshubham&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
-
-</div>
 
 <br/>
 
@@ -40,6 +50,8 @@ I'm **Shubham Joshi**, a BCA student (Panjab University, Chandigarh) and an aspi
 - 🔭 **Current Focus:** Strengthening core Java concepts and diving into the Spring ecosystem
 - 🌱 **Currently Expanding:** Servlets, Spring Framework, Spring Boot, and JPA/Hibernate
 - ⚡ **Fun Fact:** I believe every bug is just an undocumented feature waiting to be understood
+
+  
 
 ## 🛠️ Tech Stack
 
@@ -99,7 +111,7 @@ A Java-based console application to manage student academic records with structu
 - 🗄️ Data persistence using MySQL
 
 <a href="https://github.com/dev-jshubham/student-management-system">
-  <img src="https://img.shields.io/badge/View%20Repository-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -130,15 +142,13 @@ A Java-based console application to manage student academic records with structu
 
 <div align="center">
 
-| Technology | Status |
-|:---|:---:|
-| 🖥️ Servlets | 🔄 In Progress |
-| 🌱 Spring Framework | 🔄 In Progress |
-| 🚀 Spring Boot | 🔄 In Progress |
-| 🧬 JPA | 🔄 In Progress |
-| 🔗 Hibernate | 🔄 In Progress |
-| 🌐 REST APIs | 🔄 In Progress |
-| 📦 Maven | 🔄 In Progress |
+<img src="https://img.shields.io/badge/Servlets-FF6D00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring-16A34A?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hibernate-D946EF?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maven-FBBC05?style=for-the-badge&logo=apachemaven&logoColor=black" />
 
 </div>
 
@@ -148,12 +158,14 @@ A Java-based console application to manage student academic records with structu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-jshubham&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jshubham&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-jshubham&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6D00&icon_color=2563EB&text_color=c9d1d9&ring_color=EA4335" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jshubham&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=c9d1d9" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-jshubham&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-jshubham&theme=react-dark&hide_border=true&bg_color=0D1117&color=D946EF&line=2563EB&point=FBBC05" width="95%" />
 
 </div>
+
+<br/>
 
 
 <br/>
@@ -162,8 +174,7 @@ A Java-based console application to manage student academic records with structu
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jshubham&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jshubham&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
 <br/>
@@ -182,19 +193,15 @@ A Java-based console application to manage student academic records with structu
 
 <div align="center">
 
-<p align="center">
 <a href="https://github.com/dev-jshubham">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/shubham-joshi-b8117837a">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:21shubhamjoshi@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
 
 </div>
 
@@ -206,7 +213,7 @@ A Java-based console application to manage student academic records with structu
 
 ### 💬 "Code. Learn. Build. Improve. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D946EF,25:EA4335,50:FF6D00,75:16A34A,100:2563EB&height=100&section=footer" />
 
 **Thanks for visiting my profile — let's connect and build something great! 🚀**
 
