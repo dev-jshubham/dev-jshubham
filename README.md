@@ -197,15 +197,11 @@ A Java console-based CRUD application built to practice real backend fundamental
 </tr>
 </table>
 
-<br/>
-
-<br/>
-
 <table width="90%">
 <tr>
 <td width="100%">
 
-### 🏦 Bank Management System <img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square"/>
+### 🏦 Bank Management System <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
 
 A Java console-based backend project simulating core banking operations — customers, accounts, and transactions — with a focus on data integrity, not just CRUD.
 
