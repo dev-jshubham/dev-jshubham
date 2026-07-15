@@ -199,6 +199,38 @@ A Java console-based CRUD application built to practice real backend fundamental
 
 <br/>
 
+<br/>
+
+<table width="90%">
+<tr>
+<td width="100%">
+
+### 🏦 Bank Management System <img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square"/>
+
+A Java console-based backend project simulating core banking operations — customers, accounts, and transactions — with a focus on data integrity, not just CRUD.
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="32"/>
+
+**Progress so far**
+- ✅ Model classes designed — `Customer`, `Account`, `Transaction`
+- ✅ Relational schema designed with proper foreign keys (one customer → many accounts, one account → many transactions)
+- ✅ Transaction table modeled with a one-account-per-row design (so deposits, withdrawals, and transfers all fit the same shape)
+- ⏳ DAO layer (JDBC + MySQL integration) — in progress
+- 🔜 Core banking logic — Deposit, Withdraw, Transfer with atomic commit/rollback
+- 🔜 Admin panel & reports
+
+**What I'm learning building it:** how to design relational schemas with proper foreign keys instead of duplicating data, why a single transaction table needs a consistent row shape across deposit/withdraw/transfer types, and how to separate Model classes from database logic before writing a single line of SQL code — a habit I skipped early on in my Student Management System.
+
+<br/>
+
+<a href="https://github.com/dev-jshubham/bank-management-system">
+  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 <table width="90%">
 <tr>
 <td width="100%">
