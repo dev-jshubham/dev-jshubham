@@ -173,19 +173,21 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 
 ### 🎓 Student Management System
 
-A Java console-based CRUD application built to practice real backend fundamentals — not a tutorial clone.
+A Java console-based Student Management System built using **Java, JDBC, and MySQL** to practice backend fundamentals through a real-world CRUD application.
 
 <img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="32"/>
 
 **Highlights**
 - 💾 Persistent data storage with MySQL
 - 🔗 JDBC-based database connectivity
-- 📋 Complete CRUD operations (Create, Read, Update, Delete)
+- 📋 Complete CRUD operations
+- 🏆 Student ranking system
+- 📊 Class statistics
 - ⚠️ Input validation and exception handling
 - 🧩 Object-Oriented and modular design
+- 🎨 Professional console-based UI
 
-
-**What I learned building it:** how JDBC connections actually work under the hood, why exception handling matters the moment a user types something unexpected, and how to keep a console app organized instead of one giant `main()` method.
+**What I learned:** Building a complete Java application from scratch, connecting it to MySQL with JDBC, organizing business logic using OOP, implementing ranking and statistics, handling exceptions gracefully, and maintaining the project with Git and GitHub.
 
 <br/>
 
