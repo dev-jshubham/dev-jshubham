@@ -13,7 +13,11 @@
 <a href="https://www.linkedin.com/in/shubham-joshi-b8117837a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:21shubhamjoshi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
+<a href="https://github.com/dev-jshubham">
+<img src="https://komarev.com/ghpvc/?username=dev-jshubham&label=Profile%20Views&color=2E3192&style=flat"/>
+</a>
+<br/>
 
 *"Every bug is just an undocumented feature waiting to be understood."* 🐛
 
@@ -24,38 +28,53 @@
 ## 👋 About Me
 
 I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently in my **2nd year**. I'm learning Java backend development one project at a time — this profile is basically my public build log.
+I enjoy understanding how things work under the hood before moving to higher-level frameworks. That's why I focused on learning **Core Java, JDBC, MySQL, Servlets, JSP, Sessions, and MVC** before starting Spring Boot.
 
 - 🎓 **Studying:** Bachelor of Computer Applications (BCA), 2nd Year
-- 🎯 **Learning path:** Core Java → Servlets/JSP → Spring & Spring Boot → JPA/Hibernate
-- 🛠️ **Right now:** Building small backend projects to actually apply what I study, instead of just watching tutorials
+- 🎯 **Learning path:** Core Java → JDBC & MySQL → Servlets/JSP → Maven → Spring Boot → JPA/Hibernate → REST APIs
+- 🛠️ **Right now:** Building Java backend projects while learning Maven and preparing to transition to Spring Boot.
 - 📌 **Why this repo exists:** So you (recruiters, fellow students, future collaborators) can see the progress as it happens — not just a polished end result
 
 <br/>
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### ☕ Java & Core
+### ☕ Java
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/>
 
 <br/><br/>
 
-![Java 8](https://img.shields.io/badge/Java_8-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-3776AB?style=flat-square)
-<br/>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
 ![Collections](https://img.shields.io/badge/Collections-F7941E?style=flat-square)
-<br/>
-![Exceptions](https://img.shields.io/badge/Exception_Handling-D9534F?style=flat-square)
+![Exception Handling](https://img.shields.io/badge/Exception_Handling-D9534F?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-3776AB?style=flat-square)
 
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
+
+### 🌐 Java Web
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/>
+
+<br/><br/>
+
+![Servlet](https://img.shields.io/badge/Servlet-FF6C00?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP-0095D5?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-6A5ACD?style=flat-square)
+![Session](https://img.shields.io/badge/HttpSession-4CAF50?style=flat-square)
+
+</td>
+
+<td align="center" width="20%">
 
 ### 🗄️ Database
 
@@ -67,7 +86,8 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 🌿 Version Control
 
@@ -79,16 +99,18 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
-<td align="center" width="25%">
 
-### 🛠️ IDEs & Tools
+<td align="center" width="20%">
 
-<img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" height="55"/>
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark" height="55"/>
 
 <br/><br/>
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
 </td>
 </tr>
@@ -98,31 +120,32 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 
 <br/>
 
-## 📈 Currently Learning
+# 📈 Currently Learning
 
 <div align="center">
 
-<i>Expanding my Java backend development skills by learning modern frameworks and tools.</i>
+<i>Currently focusing on modern Java backend development.</i>
 
 <br/><br/>
 
 <table width="100%">
 <tr>
+
 <td align="center" width="25%">
 
-### 🌐 Web Layer
+### 📦 Build Tools
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" height="50"/>
 
 <br/><br/>
 
-![Servlets](https://img.shields.io/badge/Servlets-FF6C00?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP-0095D5?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
-### 🍃 Framework
+### 🍃 Spring
 
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50"/>
 
@@ -132,6 +155,7 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
 ### 🗃️ Persistence
@@ -144,24 +168,23 @@ I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 </td>
+
 <td align="center" width="25%">
 
-### 🔧 APIs & Build
+### 🌐 APIs
 
-<img src="https://skillicons.dev/icons?i=maven&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="50"/>
 
 <br/><br/>
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
 </div>
-
-<br/>
 
 ## 🚀 Featured Project
 
@@ -213,7 +236,7 @@ A Java console-based backend project simulating core banking operations — cust
 - ✅ Model classes designed — `Customer`, `Account`, `Transaction`
 - ✅ Relational schema designed with proper foreign keys (one customer → many accounts, one account → many transactions)
 - ✅ Transaction table modeled with a one-account-per-row design (so deposits, withdrawals, and transfers all fit the same shape)
-- ⏳ DAO layer (JDBC + MySQL integration) — in progress
+- ✅ DAO layer with JDBC integration
 - 🔜 Core banking logic — Deposit, Withdraw, Transfer with atomic commit/rollback
 - 🔜 Admin panel & reports
 
