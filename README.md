@@ -1,31 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=180&section=header&text=Hey,%20I'm%20Shubham%20Joshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Learning%20Java%20Backend%20Development&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-2F3136?style=for-the-badge&logo=databricks&logoColor=white)
-![2nd Year Student](https://img.shields.io/badge/2nd%20Year%20Student-6A5ACD?style=for-the-badge&logoColor=white)
-![Always Learning](https://img.shields.io/badge/Always%20Learning-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white)
-
-<a href="https://github.com/dev-jshubham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shubham-joshi-b8117837a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:21shubhamjoshi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/>
-<a href="https://github.com/dev-jshubham">
-<img src="https://komarev.com/ghpvc/?username=dev-jshubham&label=Profile%20Views&color=2E3192&style=flat"/>
-</a>
-<br/>
-
 *"Every bug is just an undocumented feature waiting to be understood."* 🐛
-
 </div>
 
-<br/>
-
-## 👋 About Me
+# 💫 About Me:
 
 I'm **Shubham Joshi**, a BCA student at Panjab University, Chandigarh, currently in my **2nd year**. I'm learning Java backend development one project at a time — this profile is basically my public build log.
 I enjoy understanding how things work under the hood before moving to higher-level frameworks. That's why I focused on learning **Core Java, JDBC, MySQL, Servlets, JSP, Sessions, and MVC** before starting Spring Boot.
@@ -35,277 +14,51 @@ I enjoy understanding how things work under the hood before moving to higher-lev
 - 🛠️ **Right now:** Building Java backend projects while learning Maven and preparing to transition to Spring Boot.
 - 📌 **Why this repo exists:** So you (recruiters, fellow students, future collaborators) can see the progress as it happens — not just a polished end result
 
-<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jshubham)
+[![github](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://github.com/dev-jshubham)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:21shubhamjoshi@gmail.com)
+[![leetcode](https://img.shields.io/badge/Leetcode-grey?logo=leetcode&logoColor=darkyellow)](https://leetcode.com/u/dev-jshubham/)
 
-# 🧰 Tech Stack
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-orange?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/servlet-red?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/jdbc-blue.svg?style=for-the-badge&logo=jdbc&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VsCode](https://img.shields.io/badge/Vscode-blue?style=for-the-badge&logo=visualcode&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dev-jshubham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dev-jshubham&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-jshubham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🚀 Projects
+
+| |
+|---|
+| 🎓 **[Student Management System](https://github.com/dev-jshubham/student-management-system)**<br>Java console-based CRUD app with student ranking, class statistics, input validation, and clean OOP design. <br> `Java` `JDBC` `MySQL` |
+| 🏦 **[Bank Management System](https://github.com/dev-jshubham/bank-management-system)** `In Progress`<br>Backend project simulating customers, accounts & transactions with a proper relational schema, DAO layer, and JDBC integration. Deposit/withdraw/transfer logic in progress. <br> `Java` `JDBC` `MySQL` |
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 <div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="20%">
-
-### ☕ Java
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/>
-
-<br/><br/>
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
-![Collections](https://img.shields.io/badge/Collections-F7941E?style=flat-square)
-![Exception Handling](https://img.shields.io/badge/Exception_Handling-D9534F?style=flat-square)
-![JDBC](https://img.shields.io/badge/JDBC-3776AB?style=flat-square)
-
-</td>
-
-<td align="center" width="20%">
-
-### 🌐 Java Web
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/>
-
-<br/><br/>
-
-![Servlet](https://img.shields.io/badge/Servlet-FF6C00?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP-0095D5?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-6A5ACD?style=flat-square)
-![Session](https://img.shields.io/badge/HttpSession-4CAF50?style=flat-square)
-
-</td>
-
-<td align="center" width="20%">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55"/>
-
-<br/><br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-
-</td>
-
-<td align="center" width="20%">
-
-### 🌿 Version Control
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="55"/>
-
-<br/><br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</td>
-
-<td align="center" width="20%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse&theme=dark" height="55"/>
-
-<br/><br/>
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-# 📈 Currently Learning
-
-<div align="center">
-
-<i>Currently focusing on modern Java backend development.</i>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 📦 Build Tools
-
-<img src="https://skillicons.dev/icons?i=maven&theme=dark" height="50"/>
-
-<br/><br/>
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### 🍃 Spring
-
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50"/>
-
-<br/><br/>
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗃️ Persistence
-
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" height="50"/>
-
-<br/><br/>
-
-![JPA](https://img.shields.io/badge/JPA-3366CC?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 APIs
-
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="50"/>
-
-<br/><br/>
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td width="100%">
-
-### 🎓 Student Management System
-
-A Java console-based Student Management System built using **Java, JDBC, and MySQL** to practice backend fundamentals through a real-world CRUD application.
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="32"/>
-
-**Highlights**
-- 💾 Persistent data storage with MySQL
-- 🔗 JDBC-based database connectivity
-- 📋 Complete CRUD operations
-- 🏆 Student ranking system
-- 📊 Class statistics
-- ⚠️ Input validation and exception handling
-- 🧩 Object-Oriented and modular design
-- 🎨 Professional console-based UI
-
-**What I learned:** Building a complete Java application from scratch, connecting it to MySQL with JDBC, organizing business logic using OOP, implementing ranking and statistics, handling exceptions gracefully, and maintaining the project with Git and GitHub.
-
-<br/>
-
-<a href="https://github.com/dev-jshubham/student-management-system">
-  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<table width="90%">
-<tr>
-<td width="100%">
-
-### 🏦 Bank Management System <img src="https://img.shields.io/badge/In%20Progress-orange?style=flat-square"/>
-
-A Java console-based backend project simulating core banking operations — customers, accounts, and transactions — with a focus on data integrity, not just CRUD.
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="32"/>
-
-**Progress so far**
-- ✅ Model classes designed — `Customer`, `Account`, `Transaction`
-- ✅ Relational schema designed with proper foreign keys (one customer → many accounts, one account → many transactions)
-- ✅ Transaction table modeled with a one-account-per-row design (so deposits, withdrawals, and transfers all fit the same shape)
-- ✅ DAO layer with JDBC integration
-- 🔜 Core banking logic — Deposit, Withdraw, Transfer with atomic commit/rollback
-- 🔜 Admin panel & reports
-
-**What I'm learning building it:** how to design relational schemas with proper foreign keys instead of duplicating data, why a single transaction table needs a consistent row shape across deposit/withdraw/transfer types, and how to separate Model classes from database logic before writing a single line of SQL code — a habit I skipped early on in my Student Management System.
-
-<br/>
-
-<a href="https://github.com/dev-jshubham/bank-management-system">
-  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<table width="90%">
-<tr>
-<td width="100%">
-
-### 🚀 More Projects Coming Soon
-
-I'm actively building more projects as I move deeper into the Spring ecosystem.
-
-| Project | Status | Focus |
-|---|---|---|
-| Spring Boot REST API | 🔜 Planned | REST principles, Spring Boot basics |
-| Library Management System | 🔜 Planned | Relational data modeling, JPA |
-| E-Commerce Backend | 🔜 Planned | Multi-entity systems, service layers |
-| Auth & Authorization | 🔜 Planned | Spring Security, JWT |
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-jshubham&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1BFFFF&icon_color=D4145A" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jshubham&theme=dark&hide_border=true&background=0D1117&ring=1BFFFF&fire=D4145A" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-jshubham&theme=react-dark&hide_border=true&bg_color=0D1117&color=1BFFFF&line=D4145A&point=ffffff" width="97%"/>
-
-</div>
-
-> New to GitHub, so the numbers are small right now — but I'm committing regularly and that streak's only going up 📈
-
-<br/>
 
 ## 📫 Let's Connect
 
 I'm always open to feedback on my code, learning resources, or just talking backend dev with people further along than me.
 
-<div align="center">
-
-<a href="https://github.com/dev-jshubham"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shubham-joshi-b8117837a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:21shubhamjoshi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
 *"Code. Learn. Build. Improve. Repeat."*
 
+<a href="https://github.com/dev-jshubham">
+<img src="https://komarev.com/ghpvc/?username=dev-jshubham&label=Profile%20Views&color=2E3192&style=flat"/>
+</a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4145A,50:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
-
 </div>
